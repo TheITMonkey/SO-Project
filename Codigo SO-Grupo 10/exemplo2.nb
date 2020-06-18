@@ -1,0 +1,4 @@
+Conteúdos do ficheiro Makefile:
+$ cat Makefile
+Mostrar primeira linha:
+$| head -1
